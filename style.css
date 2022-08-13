@@ -103,3 +103,7 @@ span {
     position: relative;
     width: 60%;
 }
+
+img {
+    pointer-events: none;
+}
